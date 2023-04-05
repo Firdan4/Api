@@ -1,13 +1,13 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "tugas node.js",
+  "description": "Api sederhana menggunakan express",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js",
     "build": "node src/index.js"
   },
-  "author": "heru firdan",
+  "author": "heru firdan alghovari",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "latest"
